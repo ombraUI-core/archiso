@@ -93,12 +93,12 @@ navigation: widget
 # are set to "true" (they can also be overridden).
 strings:
     productName:         "@{NAME}"
-    shortProductName:    Arch Linux
+    shortProductName:    ombraUI
     version:             Rolling
     shortVersion:        Rolling
-    versionedName:       Arch Linux Rolling Edition
-    shortVersionedName:  Arch Linux Rolling
-    bootloaderEntryName: Arch Linux
+    versionedName:       ombraUI Insider Beta
+    shortVersionedName:  ombraUI Insider
+    bootloaderEntryName: ombraUI
     productUrl:          https://www.archlinux.org/
     supportUrl:          https://wiki.archlinux.org/
     knownIssuesUrl:      https://wiki.archlinux.org/

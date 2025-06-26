@@ -2,11 +2,11 @@
 
 set -e -u
 
-iso_name=archlinux
+iso_name=ombraUI
 iso_label="ARCH_$(date +%Y%m)"
-iso_publisher="Arch Linux <http://www.archlinux.org>"
-iso_application="Arch Linux Live/Rescue CD"
-iso_version=$(date +%Y.%m.%d)
+iso_publisher="ombraUI <http://github.com/ombraUI-Core/>"
+iso_application="ombraUI Recovery Tool"
+iso_version=1.2b-$(date +%Y.%m.%d)
 install_dir=arch
 work_dir=work
 out_dir=out
